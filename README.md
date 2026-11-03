@@ -1,2 +1,0 @@
-# Snap.Greet
-Web Katalog
